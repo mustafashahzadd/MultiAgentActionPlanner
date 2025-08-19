@@ -1,1 +1,7 @@
 streamlit
+pydantic>=2
+langchain>=0.2
+langchain-groq
+python-dotenv
+groq
+
